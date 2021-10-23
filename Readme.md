@@ -13,12 +13,12 @@
 2. Metabase
 
 
-# Integrantres do grupo
+# Integrantes do grupo
 
-1. Thais Silveira
-3. Larissa Oliveira
+1. Larissa Oliveira
+3. Luan de Oliveira de Araujo
 4. Ravel dos Santos Nogueira
-5. Luan Oliveira de Araujo
+5. Thais Silveira
 
 # Introdução:
 
